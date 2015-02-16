@@ -50,8 +50,8 @@
 	</repository>
 	</distributionManagement>
 	<scm>
-		<connection>scm:git:ssh://git@github.com/jenkinsci/extended-choice-parameter-plugin.git</connection>
-		<developerConnection>scm:git:ssh://git@github.com/jenkinsci/extended-choice-parameter-plugin.git</developerConnection>
-		<url>https://github.com/jenkinsci/extended-choice-parameter-plugin</url>
+		<connection>scm:git:ssh://git@github.com/karunakarreddy/extended-choice-parameter-plugin.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com/karunakarreddy/extended-choice-parameter-plugin.git</developerConnection>
+		<url>https://github.com/karunakarreddy/extended-choice-parameter-plugin</url>
 	</scm>
 </project>
